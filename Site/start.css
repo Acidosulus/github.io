@@ -1,0 +1,164 @@
+	::selection {background: #838B8B; /* Safari, Opera */}
+	::-moz-selection {background: #838B8B; /* FireFox */}
+
+body {
+	color: #ffffff;
+	background: #000000 url(http://starcraftwars.ru/wp-content/gallery/new_design/wallpaper-599402.jpg) no-repeat left top;
+	}
+	 .lj_non_friends_ccs
+       {
+         width:auto;
+		 height:auto;
+         background: #000000;
+         border: solid 10px #FFCC66;
+         float:absolute;
+         position:fixed;
+		 display:none;
+		 top:1;
+		 left:120
+		}
+
+
+	 .wot_news_css
+       {
+         width:auto;
+		 height:auto;
+         background: #000000;
+         border: solid 10px #FFCC66;
+         float:absolute;
+         position:fixed;
+		 display:none;
+		 top:20;
+		 left:300
+		}
+	
+	 .twitch_ccs
+       {
+         width:auto;
+		 height:auto;
+         background: #000000;
+         border: solid 10px #FFCC66;
+         float:absolute;
+         position:fixed;
+		 display:none;
+		 top:350;
+		 left:450
+		        }
+    
+	.pad
+       {
+         width: auto;
+         background: #000000;
+         border: solid 1px green;
+         float:relative;
+         position:relative;
+         left: 5 ;
+         opacity: 0.8 /* CSS3 - Mozilla 1.7b +, Firefox 0.9 +, Safari 1.2+, Opera 9 */
+        }
+
+     .pad_under_cursor
+       {
+         width: auto;
+         background: #222222;
+         border: solid 1px green;
+         float:relative;
+         position:relative;
+         left: 5
+        }
+   
+
+     .seach
+       {
+         width: auto;
+         background: #000000;
+         border: solid 1px blue;
+         float:relative;
+         position:relative;
+         left: 5;
+         opacity: 0.8 /* CSS3 - Mozilla 1.7b +, Firefox 0.9 +, Safari 1.2+, Opera 9 */
+        }
+
+     .seach_under_cursor
+       {
+         width: auto;
+         background: #000000;
+         border: solid 1px blue;
+         float:relative;
+         position:relative;
+         left: 5
+        }
+
+	 .search_input
+	    {
+		 width: 100%;
+		 background: #222233;
+		 color:#99FF99;
+		 font-size: 200%
+		}
+		
+	.table_in_popup_window
+     {line-height:1px;
+	  font-style: bold;
+	  font-size: 16 ;
+	  font-family:  monospace;
+	  text-align: center
+	  }	
+
+     .popup_window_wot
+       {
+         width:auto;
+		 height:auto;
+         background: #000000;
+         border: solid 10px #002200;
+         float:absolute;
+         position:fixed;
+		 display:none;
+		 top:60;
+		 left:60
+        }
+
+     .popup_window_clans
+       {
+         width:auto;
+		 height:auto;
+         background: #000000;
+         border: solid 10px lime;
+         float:absolute;
+         position:fixed;
+		 display:none;
+		 top:30;
+		 left:130
+        }
+
+     .popup_window_wot_radio
+       {
+         width:auto;
+		 height:auto;
+         background: #000000;
+         border: solid 10px lime;
+         float:absolute;
+         position:fixed;
+		 display:none;
+		 top:30;
+		 left:330
+        }		
+		
+     .popup_window_dvach
+       {
+         width:auto;
+		 height:auto;
+         background: #000000;
+         border: solid 10px #FFCC66;
+         float:absolute;
+         position:fixed;
+		 display:none;
+		 top:70;
+		 left:60
+		        }
+	
+	.table_in_popup_window
+	{
+		font-size: 12 ;
+		table-layout: fixed;
+		CELLPADDING: 6;
+	}
