@@ -1,0 +1,11 @@
+<?php
+$dir = 'your_dirname';
+ 
+$f = scandir($dir);
+ 
+foreach ($f as $file){
+    if(preg_match('/\.(htm)/', $f)){
+        echo $f.'<br/>';
+    }
+}
+?>
