@@ -18,6 +18,11 @@ body {
 		 left:120
 		}
 
+IMG:hover {
+-webkit-filter: brightness(2);
+}
+
+
 
 	 .wot_news_css
        {
