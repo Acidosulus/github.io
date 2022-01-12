@@ -1,5 +1,32 @@
-	::selection {background: #838B8B; /* Safari, Opera */}
-	::-moz-selection {background: #838B8B; /* FireFox */}
+
+
+
+
+::selection {background: #838B8B; /* Safari, Opera */}
+::-moz-selection {background: #838B8B; /* FireFox */}
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+    color: Green;
+}
+a:hover {
+    background-size: 100% 2px;
+    color: Lime;
+}
+a:visited {
+  color: Green;
+}
+a:visited:hover {
+background-size: 100% 2px;
+  color: Lime;
+}
+
+
 
 body {
 	color: #ffffff;
